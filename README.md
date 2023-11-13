@@ -1,7 +1,7 @@
 # Description:
 
-This project is about calculating the probable runs, wickets, win% and betting odds of all teams against each other based on past data sensible to the toss decision.
-Discussing the algorithms behind the business model of sports fantasy companies
+- This project is about calculating the probable runs, wickets, win% and betting odds of all teams against each other based on past data sensible to the toss decision.
+- Discussing the algorithms behind the business model of sports fantasy companies
 
 # Tools Used:
 ⭐ Data Collection: Python web scrapping
