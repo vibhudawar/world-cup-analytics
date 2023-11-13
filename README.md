@@ -7,7 +7,7 @@ Discussing the algorithms behind the business model of sports fantasy companies
 ⭐ Data Collection: Python web scrapping
 ⭐ ETL: Pandas Library
 ⭐ Dashboard: Excel
-⭐ Video Editing: ClipChamp
+⭐ Key Highlights: Explained the betting odds calculations of cricket fantasy games.
 
 # Methodology:
 
